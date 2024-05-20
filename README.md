@@ -4,7 +4,7 @@
 <h1 id="text" style="opacity: 0.7;" >Nice to meet you</h1>
 
 <h1 align="center">Hola 👋, I'm Shivankit</h1>
-<h3 align="center">A passionate undergrad data scientist</h3>
+<h2 align="center">A passionate undergrad data scientist</h2>
 
 - 🌱 I’m currently learning **mongodb**
 
