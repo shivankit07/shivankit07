@@ -1,4 +1,4 @@
- <img src="/Users/shivankit/Downloads/ai-d.gif" alt="">
+<img src="https://github.com/shivankit07/shivankit07/assets/136995394/fd642473-b4fa-446f-9782-f57de65a0b67" height="370">
 
 <div style="text-align: center;">
 <h1 id="text" style="opacity: 0.7;" >Nice to meet you</h1>
