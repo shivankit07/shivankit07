@@ -6,7 +6,7 @@
 <h1 align="center">Hola 👻, I'm Shivankit</h1>
 <h2 align="center">A passionate undergrad data scientist</h2>
 
-- 🌱 I’m currently learning **mongodb**
+- 🌱 I’m currently learning **Web Scraping**
 
 - 💬 Ask me about **games, machine learning and tech**
 - Pronouns He/Him 🤩....
