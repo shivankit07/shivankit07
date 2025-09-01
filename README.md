@@ -1,9 +1,15 @@
 <img src="https://github.com/shivankit07/shivankit07/assets/136995394/fd642473-b4fa-446f-9782-f57de65a0b67" height="370">
 
 <div style="text-align: center;">
-<h1 id="text" style="opacity: 0.7;" >Nice to meet you</h1>
+<h1 align="center">
+  <h1 align="center">
+ <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%BE+Hola+%F0%9F%91%BB%2C+I'm+Shivankit!;⚡+Exploring+the+Tech+Matrix;🥷+Computer+Science+Engineer;🚀+Web+Designing+%7C+AI+%7C+Data+Analysis;🎮+Tech+%26+Gaming+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<h1 align="center">Hola 👻, I'm Shivankit</h1>
+
+
+
 <h2 align="center">A passionate data scientist</h2>
 
 - 🌱 I’m currently learning **Web Scraping**
