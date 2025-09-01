@@ -12,21 +12,33 @@
 
 <h2 align="center">A passionate data scientist</h2>
 
-- 🌱 I’m currently learning **Web Scraping**
+### 🕶 About Me
+- 🌱 **Currently Uploading Data into My Neural Core:** Learning **Web Scraping** 🤖  
+- 🎮 **Ask Me About:** Games, Machine Learning, Tech, or the Future of AI
+  <img src="https://github.com/shivankit07/shivankit07/assets/136995394/92dab9a0-a9a0-4490-9477-257c4f361a03" alt="Profile" align="right" width="280" height="180" style="border-radius:12px; margin-left:20px;"/>
 
-- 💬 Ask me about **games, machine learning and tech**
-- Pronouns He/Him 🤩....
-<img src="https://github.com/shivankit07/shivankit07/assets/136995394/92dab9a0-a9a0-4490-9477-257c4f361a03" alt="" align="right" width="300" height="150" margin-botton="60" display="flex">
+- 🏙 **Status:** Just a cyberpunk wandering through the digital neon streets 🌌  
+- ⚡ **Fun Fact:** *"Be the architect of your destiny; build your dreams with courage and passion."*  
+- 👤 **Pronouns:** He/Him 🤩  
 
 
-<br>
-- ⚡ Fun fact **Be the architect of your destiny; build your dreams with courage and passion.**
 
 
  
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <br>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+### 🛠️ Cybernetic Arsenal (Languages & Tools)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,wordpress,git,github,vscode&theme=dark" />
+  
+</p>
+### ⚡ My GitHub Stats — Powered by the Neon Grid  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivankit07&show_icons=true&theme=radical&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=0d1117" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivankit07&theme=radical&hide_border=true&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="180px"/>
+</p>
+
+### 🕸️ Cyber Matrix Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivankit07&bg_color=0d1117&color=00F0FF&line=00F0FF&point=00FFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
