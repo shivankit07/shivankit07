@@ -1,4 +1,5 @@
-<img src="https://images.steamusercontent.com/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="100%">
+
+<img src="https://github.com/shivankit07/shivankit07/assets/136995394/fd642473-b4fa-446f-9782-f57de65a0b67" height="370">
 
 
 <div style="text-align: center;">
