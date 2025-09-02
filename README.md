@@ -1,5 +1,5 @@
+<img src="https://github.com/user-attachments/assets/514212bc-93e4-4ead-b2aa-1352171458aa" width="100%" style="border-radius:10px;" alt="Profile Banner GIF">
 
-<img src="https://github.com/shivankit07/shivankit07/assets/136995394/fd642473-b4fa-446f-9782-f57de65a0b67" height="370">
 
 
 <div style="text-align: center;">
